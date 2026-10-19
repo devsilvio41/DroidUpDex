@@ -2,7 +2,7 @@
 **Transformar qualquer smartphone Android a partir do 8.0 em Setup Dex**
 
 📁 **[Faça o Download]** 👉
-(https://4br.me/yr1C)📌
+([https://4br.me/yr1C](https://4br.me/yr1C))📌
 
 Créditos: **Xerife Tech**
 
