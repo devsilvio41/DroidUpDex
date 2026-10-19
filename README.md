@@ -1,5 +1,10 @@
 # DroidUpDex
-Transformar qualquer smartphone Android a partir do 8.0 em Setup Dex
+**Transformar qualquer smartphone Android a partir do 8.0 em Setup Dex**
+
+📁 **[Faça o Download]** 👉
+(https://4br.me/yr1C)📌
+
+Créditos: **Xerife Tech**
 
 # Passo 1: Habilitando o Modo Desenvolvedor no Android
 No seu smartphone, abra o menu Configurações.
